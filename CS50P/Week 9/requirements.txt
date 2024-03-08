@@ -1,0 +1,5 @@
+jokeapi
+asyncio
+argparse
+py3-tts
+playsound
