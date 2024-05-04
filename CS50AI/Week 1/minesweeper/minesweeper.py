@@ -1,5 +1,8 @@
-import itertools
 import random
+
+# TODO
+# make_random_move should select a cell based on probablilites of knowledge of a mine occuring instead
+# of complete randomness
 
 
 class Minesweeper():
