@@ -188,8 +188,10 @@ while True:
                     print("No moves left to make.")
                 else:
                     print("No known safe moves, AI making random move.")
+                    print("Move", move)
             else:
                 print("AI making safe move.")
+                print(move)
             time.sleep(0.2)
 
         # Reset game state
